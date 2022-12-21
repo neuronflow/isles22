@@ -46,9 +46,20 @@ For information about the ranking computation, please check the challenge [docum
 A Jupyter notebook is provided to get started with ISLES'22. The notebook will guide you through the data loading process and performance evaluation of a simple segmentation approach.
 
 ## Citation
-Please cite our [preprint](https://arxiv.org/abs/2206.06694) when using ISLES'22 dataset:
+Please cite our [manuscript]([https://arxiv.org/abs/2206.06694](https://www.nature.com/articles/s41597-022-01875-5)) when using ISLES'22 dataset:
 
-Petzsche, M. R. H., de la Rosa, E., Hanning, U., Wiest, R., Pinilla, W. E. V., Reyes, M., ... & Kirschke, J. S. (2022). ISLES 2022: A multi-center magnetic resonance imaging stroke lesion segmentation dataset. arXiv preprint arXiv:2206.06694.
+```
+@article{hernandez2022isles,
+  title={ISLES 2022: A multi-center magnetic resonance imaging stroke lesion segmentation dataset},
+  author={Hernandez Petzsche, Moritz R and de la Rosa, Ezequiel and Hanning, Uta and Wiest, Roland and Valenzuela, Waldo and Reyes, Mauricio and Meyer, Maria and Liew, Sook-Lei and Kofler, Florian and Ezhov, Ivan and others},
+  journal={Scientific data},
+  volume={9},
+  number={1},
+  pages={1--9},
+  year={2022},
+  publisher={Nature Publishing Group}
+}
+```
 
 
 
